@@ -56,3 +56,5 @@ intents.reactions = True
 
 client = Client(intents=intents)
 client.run(BOT_TOKEN)
+
+#i feel so sigma! (i have not used python since i was 16.... its been 3 years.. save me from this self-imposed nightmare)
