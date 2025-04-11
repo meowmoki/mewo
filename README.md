@@ -15,3 +15,4 @@ anyway, stick around, have a coffee, and maybe ill publish something worth looki
 * ill add this later, have to look at the trello board first.
 > actually,, cant i just link the trello board... idk its 3am im eepy.
 
+note: IGNORE THE STATUS I HAVE SET FOR IT THE BOTS CALLED HOUSE MD RIGHT NOW I THOUGHT IT WAS A FUNNY WAY TO LEARN HOW TO ASSIGN CUSTOM STATUSES :sob:
